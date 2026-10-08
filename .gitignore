@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Cache & Temporary
+cache/
+*.tmp
+github_token.tmp
+
+# Kişisel kadran dosyaları (büyük boyutlu özel arşivler)
+.hwt/*.hwt
+hwt/*.hwt
+!hwt/.gitkeep
+!.hwt/.gitkeep
+
+# Environments & IDEs
+.env
+.venv
+env/
+venv/
+.idea/
+.vscode/
