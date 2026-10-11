@@ -22,3 +22,6 @@ env/
 venv/
 .idea/
 .vscode/
+
+# Mobile Repo (independent repository)
+hwt_lister_mobile/
